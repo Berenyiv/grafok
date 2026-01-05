@@ -3,7 +3,7 @@ body {
   padding: 10px;
   margin: 0px;
   text-align: justify;
-  background-image: url;('big_graph.png');
+  background-image: url('big_graph.png');
 }
 
 p:first-letter {
@@ -20,6 +20,11 @@ h1 {
 h2,
 h3 {
   font-style: italic;
+}
+
+
+.keplet {
+    font-style: italic;
 }
 
 
